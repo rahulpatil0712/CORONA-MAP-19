@@ -1,6 +1,7 @@
 # CORONA MAP-19
 # CORONA WORLD MAP WITH PATIENT 
 * Create a SIimple Web-Page For CORONA MAP.
+* using #MAPBOX 
 # Check it:
 https://rahulpatil0712.github.io/CORONA-MAP-19/
 # Languages & Tools:
