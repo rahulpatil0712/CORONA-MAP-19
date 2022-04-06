@@ -1,6 +1,8 @@
 # CORONA MAP-19
 # CORONA WORLD MAP WITH PATIENT 
 * Create a SIimple Web-Page For CORONA MAP.
+![Screenshot (146)](https://user-images.githubusercontent.com/85786621/161962243-357c5931-7753-46fc-a24a-79a7be330998.png)
+
 * using #MAPBOX 
 # Check it:
 https://rahulpatil0712.github.io/CORONA-MAP-19/
